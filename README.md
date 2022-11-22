@@ -1,9 +1,9 @@
 # Transcendance project
 
-## This project is a single page application with a Pong game and a chat.
-## You need the appropriate .env file at the root of your project.
+### This project is a single page application with a Pong game and a chat.
+You need the appropriate .env file at the root of your project.
 
-## To launch the app you can use the command :
+To launch the app you can use the command :
 ```
 docker-compose up --build
 ```
